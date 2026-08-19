@@ -1,0 +1,11 @@
+{
+  "domain": "perfectgym",
+  "name": "PerfectGym",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/codyc1515/ha-perfectgym",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "0.1.1"
+}
